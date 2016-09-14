@@ -29,4 +29,3 @@ Vector还可以设置增长的空间大小,
 而ArrayList没有提供设置增长空间的方法.
 
 **总结：即Vector增长原来的一倍,ArrayList增加原来的0.5倍. Vector 线程安全, ArrayList 不是.**
-

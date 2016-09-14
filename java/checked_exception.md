@@ -14,4 +14,3 @@
 所以,
 编译器不强制用try..catch处理或用throws声明,
 所以 Runtime 异常也称为unchecked异常
-
